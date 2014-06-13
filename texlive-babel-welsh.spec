@@ -6,7 +6,7 @@
 # catalog-version 1.0d
 Name:		texlive-babel-welsh
 Version:	1.0d
-Release:	5
+Release:	6
 Summary:	babel-welshBabel support for Welsh
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/welsh
