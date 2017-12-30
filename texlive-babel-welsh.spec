@@ -1,12 +1,6 @@
-# revision 30299
-# category Package
-# catalog-ctan /macros/latex/contrib/babel-contrib/welsh
-# catalog-date 2013-05-03 01:23:11 +0200
-# catalog-license lppl1.3
-# catalog-version 1.0d
 Name:		texlive-babel-welsh
-Version:	1.0d
-Release:	9
+Version:	1.1a
+Release:	1
 Summary:	babel-welshBabel support for Welsh
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/welsh
@@ -34,11 +28,10 @@ LaTeX file.).
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/generic/babel-welsh/welsh.ldf
-%doc %{_texmfdistdir}/doc/generic/babel-welsh/welsh.pdf
+%{_texmfdistdir}/tex/generic/babel-welsh
+%doc %{_texmfdistdir}/doc/generic/babel-welsh
 #- source
-%doc %{_texmfdistdir}/source/generic/babel-welsh/welsh.dtx
-%doc %{_texmfdistdir}/source/generic/babel-welsh/welsh.ins
+%doc %{_texmfdistdir}/source/generic/babel-welsh
 
 #-----------------------------------------------------------------------
 %prep
