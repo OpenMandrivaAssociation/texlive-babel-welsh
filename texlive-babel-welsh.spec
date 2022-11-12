@@ -5,9 +5,9 @@ Summary:	babel-welshBabel support for Welsh
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/welsh
 License:	LPPL1.3
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-welsh.r38372.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-welsh.doc.r38372.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-welsh.source.r38372.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-welsh.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-welsh.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-welsh.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
