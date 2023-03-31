@@ -1,6 +1,6 @@
 Name:		texlive-babel-welsh
 Version:	38372
-Release:	1
+Release:	2
 Summary:	babel-welshBabel support for Welsh
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/welsh
