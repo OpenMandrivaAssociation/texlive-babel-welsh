@@ -3,7 +3,7 @@ Version:	71109
 Release:	1
 Summary:	babel-welshBabel support for Welsh
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/welsh
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/welsh
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-welsh.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-welsh.doc.r%{version}.tar.xz
